@@ -1,0 +1,4 @@
+help - Get a link to the documentation
+setconfig - Usage: /setconfig setting=new_value
+viewconfig - Usage: /viewconfig
+whitelist - Usage: /whitelist USER_ID,USER_ID or /whitelist (to view whitelist)

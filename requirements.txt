@@ -1,0 +1,8 @@
+numpy
+xlwt
+openpyxl
+xlsxwriter
+requests
+pyTelegramBotAPI
+pandas
+mysql-connector-python
